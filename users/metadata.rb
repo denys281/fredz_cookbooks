@@ -1,3 +1,4 @@
+name              "Users"
 maintainer        "37signals"
 maintainer_email  "sysadmins@37signals.com"
 description       "Configures users and groups"
