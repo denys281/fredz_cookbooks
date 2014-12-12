@@ -1,3 +1,4 @@
+name		 "Networking basic"
 maintainer       "Frederico Araujo, Tim Smith"
 maintainer_email "fred.the.master@gmail.com, tim.smith@webtrends.com, atomic-penguin (Eric G. Wolfe)"
 license          "Apache 2.0"
